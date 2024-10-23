@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "MaxWel",
+      "email": "max@gmail.com",
+      "role": "Staffing"
+    },
+    {
+      "id": 2,
+      "username": "Sam kim",
+      "email": "samkim@gmail.com",
+      "role": "Engineer"
+    },
+    {
+      "id": 3,
+      "username": "Bob jons",
+      "email": "bobjons@gmail.com",
+      "role": "Artist"
+    },
+    {
+      "id": 4,
+      "username": "Jack lii",
+      "email": "jacklii@gmail.com",
+      "role": "Staffing"
+    },
+    {
+      "id": 5,
+      "username": "Roma",
+      "email": "roma@gmail.com",
+      "role": "Singer"
+    }
+  ]
+}
